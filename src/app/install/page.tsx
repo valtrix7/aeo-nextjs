@@ -30,8 +30,8 @@ export default function Page() {
         <article className="step" data-od-id="step-2">
           <div className="step-num">02</div>
           <div className="step-body">
-            <h3>Install via Codex</h3>
-            <p>Use the Codex CLI to register the skill. This adds it to your available skills list.</p>
+            <h3>Install via any coding agent</h3>
+            <p>Use your preferred coding agent to register the skill. This adds it to your available skills list.</p>
             <div className="code-block">
               Coming soon
             </div>
@@ -69,9 +69,9 @@ export default function Page() {
             <h4>Python 3.10+</h4>
             <p>The skill runs on Python. Version 3.10 or higher is required.</p>
           </div>
-          <div className="req" data-od-id="req-codex">
-            <h4>Codex CLI</h4>
-            <p>The skill manager that registers and runs AEO audits.</p>
+          <div className="req" data-od-id="req-agent">
+            <h4>Any Coding Agent</h4>
+            <p>Works with any coding agent (Codex, Cursor, Copilot, etc.) that can register and run AEO audits.</p>
           </div>
           <div className="req" data-od-id="req-git">
             <h4>Git</h4>
